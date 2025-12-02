@@ -1,4 +1,4 @@
-# Intelligent Business Operations Concierge Agent (IBOCA) old 
+# Intelligent Business Operations Concierge Agent (IBOCA)  
 **Unified AI Orchestration for Modern Business Efficiency**
 
 A single-agent concierge system that orchestrates multiple specialized sub-agents to handle business operations, data analysis, and customer support through a unified interface, specifically catered for modern businesses.
